@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Генератор случайных цитат</title>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Генератор случайных цитат</h1>
+  <button onclick="generateQuote()">Случайная цитата</button>
+  <div id="quote"></div>
+</body>
+</html>
